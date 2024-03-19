@@ -237,7 +237,7 @@ span {
     }
     61%,
     80% {
-        content: "Content Manager";
+        content: "Network Engineer";
     }
     81%, 
     100% {
@@ -541,6 +541,7 @@ span {
 }
 
 @media(max-width:991px) {
+    
     header {
         padding: 2rem 3%;
     }
